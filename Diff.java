@@ -5,5 +5,6 @@ class Diff{
 		int a = input.nextInt();
 		int b = input.nextInt();
 		System.out.println("Diff is : "a-b);
+		System.out.println("Heyy");
 	}
 }
